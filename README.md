@@ -1,6 +1,6 @@
 # BOT Slack [JS]
 
-This slack bot receives the "/next-meet" command and answer with some info regarding the next dockeroma community meetup will be held.
+This slack BOT receives the "/next-meet" command and answer with some info regarding the next dockeroma community meetup will be held.
 
 Inspired from the startbot example
 
